@@ -12,6 +12,9 @@ const dataset = process.env.NEXT_PUBLIC_SANITY_DATASET
 
 export default defineCliConfig({
   api: {projectId, dataset},
+  deployment: {
+    appId: 'a2ni0f0irf2jynkm4p8047f0',
+  },
   vite: {
     resolve: {
       alias: {
