@@ -3,7 +3,7 @@ import {NextConfig} from 'next'
 const config: NextConfig = {
   reactCompiler: true,
   images: {
-    remotePatterns: [{hostname: 'cdn.sanity.io'}],
+    remotePatterns: [{hostname: 'cdn.sanity.io'}, {hostname: 'res.cloudinary.com'}],
   },
   typescript: {
     // Set this to false if you want production builds to abort if there's type errors

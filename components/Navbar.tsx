@@ -20,7 +20,7 @@ export function Navbar(props: NavbarProps) {
       : null
   return (
     <header
-      className="sticky top-0 z-10 flex flex-wrap items-center gap-x-5 bg-white/80 px-4 py-4 backdrop-blur md:px-16 md:py-5 lg:px-32"
+      className="sticky top-0 z-20 flex flex-wrap items-center gap-x-5 border-b border-white/10 bg-slate-950/70 px-4 py-4 backdrop-blur-xl md:px-16 md:py-5 lg:px-32"
       data-sanity={dataAttribute?.('menuItems')}
     >
       <OptimisticSortOrder id={data?._id} path="menuItems">
@@ -32,8 +32,8 @@ export function Navbar(props: NavbarProps) {
           return (
             <Link
               key={menuItem._key}
-              className={`text-lg hover:text-black md:text-xl ${
-                menuItem?._type === 'home' ? 'font-extrabold text-black' : 'text-gray-600'
+              className={`text-lg transition hover:text-white md:text-xl ${
+                menuItem?._type === 'home' ? 'font-extrabold text-white' : 'text-slate-300'
               }`}
               data-sanity={dataAttribute?.([
                 'menuItems',
