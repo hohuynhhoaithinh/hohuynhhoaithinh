@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hồ Huỳnh Hoài Thịnh
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Thi%CC%A3nh+%F0%9F%91%8B;Backend+%26+Fullstack+Developer;Java+Spring+Boot+%7C+Node.js+%7C+React;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-**Backend & Fullstack Developer**
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hohuynhhoaithinh.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://hohuynhhoaithinh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ho%20Huynh%20Hoai%20Thinh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-huynh-hoai-thinh/)
 [![Email](https://img.shields.io/badge/Email-hohuynhhoaithinh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hohuynhhoaithinh@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=hohuynhhoaithinh&style=flat-square&color=0A66C2)](https://github.com/hohuynhhoaithinh)
 
 </div>
 
@@ -14,7 +15,12 @@
 
 ## About Me
 
-I'm a **Backend & Fullstack Developer** with a strong focus on building scalable server-side systems and end-to-end web applications. I enjoy working across the full development stack — from designing robust APIs and database architectures to crafting responsive user interfaces.
+I'm a **Backend & Fullstack Developer** passionate about building scalable systems and end-to-end web applications. I enjoy designing robust APIs, clean database architectures, and crafting smooth user interfaces.
+
+- 🔭 Currently working on full-stack projects with **Spring Boot** & **React**
+- 🌱 Always exploring new tools, patterns, and best practices
+- 💬 Ask me about **Java**, **Node.js**, **REST APIs**, or **database design**
+- 📫 Reach me at **hohuynhhoaithinh@gmail.com**
 
 ---
 
@@ -44,9 +50,28 @@ I'm a **Backend & Fullstack Developer** with a strong focus on building scalable
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hohuynhhoaithinh&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=hohuynhhoaithinh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohuynhhoaithinh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hohuynhhoaithinh&layout=compact&theme=default&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hohuynhhoaithinh&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hohuynhhoaithinh/hohuynhhoaithinh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hohuynhhoaithinh/hohuynhhoaithinh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hohuynhhoaithinh/hohuynhhoaithinh/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
